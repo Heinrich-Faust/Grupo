@@ -1,6 +1,6 @@
 import React from "react";
 import { FaBalanceScale, FaBullseye, FaEye } from "react-icons/fa";
-import misionImg from "../assets/misión.jfif";
+import misionImg from "../assets/misión3.jpg";
 import visionImg from "../assets/misión2.jpg";
 import nosotrosImg from "../assets/misión1.jpg";
 
